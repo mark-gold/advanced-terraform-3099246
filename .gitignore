@@ -11,6 +11,5 @@ npm-debug.log
 *.tfstate.backup
 *.lock.info
 .terraform
-.DS_Store
 *.hcl
 tf_sa_key
